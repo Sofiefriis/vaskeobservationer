@@ -1,0 +1,32 @@
+/* Mit CSS 
+(C) Copyright 2017: Niels Østergaard
+*/
+
+body {
+    font-family: sans-serif;
+    background-color: #2f8800;
+    color: #FFF;
+    margin: 1em;
+}
+
+
+#pagewrap {
+    max-width: 800px;
+    margin: auto;
+    border: 3px solid #000000;
+}
+
+.obsTypeClass {
+    font-weight: bold;
+    margin: 0 3em;
+}
+
+.obsTekstClass {
+    margin: 0 3em;
+}
+
+footer {
+    background-color: #000000;
+    color: #999999;
+    text-align: center;
+}
